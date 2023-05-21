@@ -19,6 +19,10 @@ body{
     padding: 0; 
 } */
 
+ul, li{
+    list-style: none;
+}
+
 a{
     color: inherit;
     text-decoration: none;

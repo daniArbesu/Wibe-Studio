@@ -97,9 +97,9 @@ const CoverVideo = () => {
             e
           </motion.h1>
         </div>
-        <h2 data-scroll data-scroll-delay="0.04" data-scroll-speed="4">
+        <motion.h2 variants={letter} data-scroll data-scroll-delay="0.04" data-scroll-speed="4">
           Inspire. Create. Believe
-        </h2>
+        </motion.h2>
       </Title>
       <video src={HeroVideo} type="video/mp4" muted loop autoPlay />
     </VideoContainer>
