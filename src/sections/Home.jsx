@@ -11,7 +11,7 @@ const Section = styled.section`
 
 const Home = () => {
   return (
-    <Section>
+    <Section data-scroll-section>
       <CoverVideo />
       <Logo />
       <NavBar />
