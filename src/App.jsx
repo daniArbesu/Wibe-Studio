@@ -1,5 +1,5 @@
 import { ThemeProvider } from 'styled-components';
-import GlobalStyles from './styles/Globalstyles';
+import GlobalStyles from './styles/Globalstyles.js';
 import { dark } from './styles/Theme';
 import { useRef } from 'react';
 import { LocomotiveScrollProvider } from 'react-locomotive-scroll';
