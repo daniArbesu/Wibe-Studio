@@ -85,13 +85,16 @@ const CoverVideo = () => {
       <Title variants={container} initial="hidden" animate="show">
         <div>
           <motion.h1 variants={letter} data-scroll data-scroll-delay="0.13" data-scroll-speed="4">
-            W
+            S
           </motion.h1>
           <motion.h1 variants={letter} data-scroll data-scroll-delay="0.09" data-scroll-speed="4">
-            i
+            t
           </motion.h1>
           <motion.h1 variants={letter} data-scroll data-scroll-delay="0.06" data-scroll-speed="4">
-            b
+            y
+          </motion.h1>
+          <motion.h1 variants={letter} data-scroll data-scroll-delay="0.04" data-scroll-speed="4">
+            l
           </motion.h1>
           <motion.h1 variants={letter} data-scroll data-scroll-delay="0.04" data-scroll-speed="4">
             e
